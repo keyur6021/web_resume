@@ -8,6 +8,9 @@ function App() {
         <div className='web-resume'>
           Wel-Come To My Web-Resume .
         </div>
+        <div className='progress'>
+          Under Constraction
+        </div>
       </header>
     </div>
   );
