@@ -9,7 +9,7 @@ function App() {
           Wel-Come To My Web-Resume .
         </div>
         <div className='progress'>
-          Under Constraction
+          Under Constraction ---
         </div>
       </header>
     </div>
