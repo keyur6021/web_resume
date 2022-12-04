@@ -92,7 +92,7 @@ function Navbar() {
                         Wel-Come To My Web-Resume
                     </Typography>
                     <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex', fontSize: '1.6rem' } }}>
-                        ***
+
                     </Box>
 
                     <Box sx={{ flexGrow: 0 }}>

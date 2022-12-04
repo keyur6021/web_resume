@@ -12,6 +12,9 @@ const LandingPage = () => {
                     WEL-COME
                 </div>
                 <div>
+                    TO
+                </div>
+                <div>
                     My Web Resume
                 </div>
             </div>
