@@ -12,6 +12,7 @@ function App() {
 
   console.loog('last commit')
   console.loog('last commit again')
+  console.loog('last commit final again')
   return (
     <div className="App">
       <Router>
