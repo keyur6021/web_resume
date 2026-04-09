@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import LandingPage from './components/LandingPage';
 
 function App() {
+  console.log("App component rendered one");
   return (
     <div className="App">
       <Router>
