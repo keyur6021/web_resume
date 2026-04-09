@@ -8,11 +8,9 @@ function App() {
   // console.log("App component rendered  two");
   console.log("App component rendered  three updated");
   console.log("App component rendered  four");
-
-
-  console.loog('last commit')
-  console.loog('last commit again')
-  console.loog('last commit final again')
+  console.log('last commit')
+  console.log('last commit again')
+  console.log('last commit final again')
   return (
     <div className="App">
       <Router>
