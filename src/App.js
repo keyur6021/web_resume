@@ -5,7 +5,7 @@ import LandingPage from './components/LandingPage';
 
 function App() {
   console.log("App component rendered one");
-  console.log("App component rendered  two");
+  // console.log("App component rendered  two");
   console.log("App component rendered  three");
   console.log("App component rendered  four");
   return (
