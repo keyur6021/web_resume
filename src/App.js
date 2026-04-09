@@ -5,6 +5,7 @@ import LandingPage from './components/LandingPage';
 
 function App() {
   console.log("App component rendered one");
+  console.log("App component rendered  two");
   return (
     <div className="App">
       <Router>
