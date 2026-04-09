@@ -4,10 +4,6 @@ import Navbar from './components/Navbar';
 import LandingPage from './components/LandingPage';
 
 function App() {
-  console.log("App component rendered one");
-  // console.log("App component rendered  two");
-  console.log("App component rendered  three updated");
-  console.log("App component rendered  four");
   console.log('last commit')
   console.log('last commit again')
   console.log('last commit final again')
